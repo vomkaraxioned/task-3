@@ -233,6 +233,24 @@ li {
   main styling starts here
 =================================*/
 
+h1 {
+    padding: 20px 0;
+    text-align: center;
+}
+
+.sounds {
+    display: flex;
+    justify-content: center;
+}
+
+.sound {
+    width: 30%;
+    padding: 20px 5%;
+    margin: 20px;
+    background-color: #656566;
+    text-align: center;
+}
+
 
 /*=================================
   main styling ends here
