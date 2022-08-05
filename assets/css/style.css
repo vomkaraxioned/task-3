@@ -233,6 +233,10 @@ li {
   main styling starts here
 =================================*/
 
+body {
+    background-image: radial-gradient(circle, #ff9800, #ffc166);
+}
+
 h1 {
     padding: 20px 0;
     text-align: center;
@@ -248,8 +252,8 @@ h1 {
     padding: 20px 5%;
     border-radius: 5px;
     margin: 20px;
-    background-color: #656566;
-    color: #00f;
+    background-color: #90ee90;
+    color: #fff;
     text-align: center;
 }
 
