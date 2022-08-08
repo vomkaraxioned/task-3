@@ -257,6 +257,7 @@ h1 {
     background-color: #90ee90;
     color: #fff;
     text-align: center;
+    cursor: pointer;
 }
 
 .sound:hover {
