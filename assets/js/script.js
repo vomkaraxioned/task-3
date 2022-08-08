@@ -1,6 +1,5 @@
 /* Author: 
 
-<<<<<<< HEAD
 */
 const buttons = document.getElementsByClassName('sound');
 for (x in buttons) {
@@ -17,6 +16,3 @@ function listener() {
     this.childNodes[1].play();
     this.style.color = "#f00";
 }
-=======
-*/
->>>>>>> feature-css
