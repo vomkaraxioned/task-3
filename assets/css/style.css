@@ -243,8 +243,10 @@ h1 {
 }
 
 .sounds {
+    padding: 20% 0;
     display: flex;
     justify-content: center;
+    justify-items: center;
 }
 
 .sound {
